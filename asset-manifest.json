@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SWATHIRPANIKKER/react-in-github.git/static/css/main.0616305a.chunk.css",
+    "main.js": "/SWATHIRPANIKKER/react-in-github.git/static/js/main.96edafa5.chunk.js",
+    "main.js.map": "/SWATHIRPANIKKER/react-in-github.git/static/js/main.96edafa5.chunk.js.map",
+    "runtime-main.js": "/SWATHIRPANIKKER/react-in-github.git/static/js/runtime-main.f67ede0e.js",
+    "runtime-main.js.map": "/SWATHIRPANIKKER/react-in-github.git/static/js/runtime-main.f67ede0e.js.map",
+    "static/js/2.2cbb2b35.chunk.js": "/SWATHIRPANIKKER/react-in-github.git/static/js/2.2cbb2b35.chunk.js",
+    "static/js/2.2cbb2b35.chunk.js.map": "/SWATHIRPANIKKER/react-in-github.git/static/js/2.2cbb2b35.chunk.js.map",
+    "static/js/3.b46889bf.chunk.js": "/SWATHIRPANIKKER/react-in-github.git/static/js/3.b46889bf.chunk.js",
+    "static/js/3.b46889bf.chunk.js.map": "/SWATHIRPANIKKER/react-in-github.git/static/js/3.b46889bf.chunk.js.map",
+    "index.html": "/SWATHIRPANIKKER/react-in-github.git/index.html",
+    "static/css/main.0616305a.chunk.css.map": "/SWATHIRPANIKKER/react-in-github.git/static/css/main.0616305a.chunk.css.map",
+    "static/js/2.2cbb2b35.chunk.js.LICENSE.txt": "/SWATHIRPANIKKER/react-in-github.git/static/js/2.2cbb2b35.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SWATHIRPANIKKER/react-in-github.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67ede0e.js",
+    "static/js/2.2cbb2b35.chunk.js",
+    "static/css/main.0616305a.chunk.css",
+    "static/js/main.96edafa5.chunk.js"
+  ]
+}
